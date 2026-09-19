@@ -21,6 +21,11 @@
 * Social Login integrations into web applications
 * Set up of Authorization Server using KeyCloak, Spring Authorization Server 
 
+## Project documentation
+
+Start at [docs/README.md](docs/README.md): architecture, section guide, endpoint/user/token reference, a Docker-only run guide and a
+section-by-section [teaching walkthrough](docs/walkthrough/00-start-here.md) with line-by-line code explanations.
+
 ## Pre-requisite for the course
 - Good understanding on Java and Spring concepts
 - Basic understanding on SpringBoot & REST services is a bonus but not mandatory
